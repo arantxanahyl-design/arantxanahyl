@@ -1,103 +1,84 @@
 # arantxanahyl
-<h1 align="center">Hi 👋, I'm Arantxa</h1>
-<h3 align="center">Software Development student building real applications</h3>
-
+<h1 align="center">Hi, I'm Arantxa</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=520&lines=CFGS+DAM+Student+from+Spain;Java+%7C+Android+%7C+Python;Learning+by+building+real+projects" />
+Software Development student (CFGS DAM) from Spain
 </p>
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-💻 Software Development student (CFGS DAM) from Spain  
-🚀 Focused on **desktop, mobile and backend applications**  
-🧠 I prefer understanding how things work instead of copying code  
-📦 Interested in clean structure, databases and real-world logic  
+I am a Software Development student focused on building functional applications and understanding how things work internally.
 
----
-
-## 🔭 Currently working on
-
-- 📱 **Android applications** with Firebase (auth, roles, CRUD)
-- 🖥️ **Desktop apps** with Java (Swing + JPA)
-- 🐍 **Python tools** with PyQt5 and SQLite
-
-## 🌱 Currently learning
-
-- Docker & container basics  
-- Microservices fundamentals  
-- Better project structure and documentation  
+I work mainly with Java, Android and Python, creating desktop and mobile applications connected to databases.  
+I am especially interested in clean project structure, data management and practical solutions.
 
 ---
 
-## 🚀 Featured projects
+## What I am working on
 
-### 🏨 Hotel InnKeeper
-- Android hotel management app
-- Roles: manager, reception, staff, guests
+- Android applications with Firebase (authentication, roles, CRUD)
+- Desktop applications using Java Swing and JPA
+- Python desktop tools with PyQt and SQLite
+
+## Currently learning
+
+- Docker and container basics  
+- Backend architecture fundamentals  
+- Improving documentation and project organization  
+
+---
+
+## Projects
+
+**Hotel InnKeeper**  
+Android application for hotel management with different user roles, reservations and task handling using Firebase.
+
+**TPV Desktop Application**  
+Java Swing point-of-sale system with product management, tickets, calculator and discounts.
+
+**CRM Desktop Application**  
+Python + PyQt5 application with SQLite databases for managing clients, opportunities and budgets.
+
+---
+
+## Technologies
+
+**Languages**
+- Java
+- Python
+- SQL
+- JavaScript (basic)
+
+**Frameworks & Tools**
+- Android Studio
+- Java Swing
+- PyQt5
+- Firebase
+- Git & GitHub
+- Docker (learning)
+
+**Databases**
+- SQLite
 - Firebase Realtime Database
-- Java + XML
-
-### 🧾 TPV Desktop Application
-- Java Swing point-of-sale system
-- Products, categories, tickets, calculator
-- Designed for academic and real use
-
-### 📊 CRM Desktop App
-- Python + PyQt5
-- SQLite database per company
-- Pipelines, opportunities and budgets
+- ObjectDB / JPA
 
 ---
 
-## 🛠️ Tech stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,sql" />
-</p>
-
-### Desktop & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=android,qt" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
-
----
-
-## 📊 GitHub stats
+## GitHub statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arantxanahyl&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arantxanahyl&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arantxanahyl&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arantxanahyl&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-<p>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com  
+- Email: tuemail@gmail.com
 
----
-
-⚡ *I care about understanding my code, writing it clean, and building things that actually work.*
