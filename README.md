@@ -90,7 +90,6 @@ Python + PyQt5 application with SQLite databases for managing clients, opportuni
 ---
 
 ## Contact
-
-- LinkedIn: https://www.linkedin.com  
-- Email: tuemail@gmail.com
+  
+- Email: arantxanahyl@gmail.com
 
