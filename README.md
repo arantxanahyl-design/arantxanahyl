@@ -65,14 +65,26 @@ Python + PyQt5 application with SQLite databases for managing clients, opportuni
 
 ---
 
-## GitHub statistics
+## Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arantxanahyl&show_icons=true&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,sql,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arantxanahyl&layout=compact&hide_border=true" />
+---
+
+## IDEs & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,netbeans,vscode,git,github,docker" />
+</p>
+
+---
+
+## Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
 </p>
 
 ---
